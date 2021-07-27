@@ -169,13 +169,6 @@ header .navbar ul li a:hover{
     color: var(--yellow);
 }
 
-.home p{
-    font-size: 2rem;
-    color: #eee;
-    padding: 1rem 0;
-}
-
-
 .about{
     display: flex;
     justify-content: center;
@@ -184,7 +177,7 @@ header .navbar ul li a:hover{
 }
 
 .about p{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #eee;
     padding: 1rem 0;
 }
@@ -198,7 +191,7 @@ header .navbar ul li a:hover{
 }
 
 .education p{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #eee;
     padding: 1rem 0;
 }
@@ -253,7 +246,7 @@ header .navbar ul li a:hover{
 
 .contact .row .content .title{
 
-    text-transform: uppercase;
+    text-transform: capitalize;
     color: #fff;
     font-size: 3rem;
     padding-bottom: 2rem;
